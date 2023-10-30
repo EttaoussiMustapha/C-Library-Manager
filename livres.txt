@@ -1,0 +1,7 @@
+501	Math	1
+541	Algo	0
+245	Arabe	0
+654	English	1
+221	Physique	1
+878	Chimie	1
+434	Espagnol	1
